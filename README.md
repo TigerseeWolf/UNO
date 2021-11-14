@@ -1,5 +1,5 @@
 # UNO.py
-UNO卡牌游戏类 -- 接入 QQ bot 使用
+UNO卡牌游戏类 -- 可接入 QQ bot 使用
 脚本包含三个类
 ```python
 class Card
